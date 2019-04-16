@@ -22,7 +22,6 @@
                         acf_form(array(
                             'post_id'	=> $post_ID,
                             'post_title' => true,
-                            'post_content' => true,
                             'submit_value'	=> 'Update the post!'
                         )); 
                         

@@ -12,8 +12,8 @@
 
   _log(test);
 
-  $('.acf-field').addClass('form-group');
-  $('.acf-input select, .acf-input input').addClass('form-control');
+  $('.acf-field').addClass('form-group'); // 	$('.acf-input select, .acf-input input').addClass('form-control');
+
   $('.button.button-primary').addClass('btn btn-primary'); // Helpers only below
 
   function _log() {

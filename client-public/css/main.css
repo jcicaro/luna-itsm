@@ -87,10 +87,8 @@ body {
 .acf-form-submit {
   padding: 15px 12px; }
 
-.acf-field input[type="text"].form-control {
-  padding: .375rem .75rem;
-  line-height: 1.5;
-  height: 36px; }
-
-#tinymce {
-  color: red; }
+.acf-field input[type="text"] {
+  line-height: 1.2;
+  height: 36px;
+  border-radius: 5px;
+  border: 1px solid lightgray; }

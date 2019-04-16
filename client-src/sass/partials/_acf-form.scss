@@ -3,8 +3,10 @@
 	padding: 15px 12px; // similar to acf-field
 }
 
-.acf-field input[type="text"].form-control {
-	padding: .375rem .75rem;
-	line-height: 1.5;
+.acf-field input[type="text"] {
+// 	padding: .3rem 8px;
+	line-height: 1.2;
 	height: 36px;
+	border-radius: 5px;
+	border: 1px solid lightgray;
 }

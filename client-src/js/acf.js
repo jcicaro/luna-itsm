@@ -12,7 +12,7 @@
 	
 	
 	$('.acf-field').addClass('form-group');
-	$('.acf-input select, .acf-input input').addClass('form-control');
+// 	$('.acf-input select, .acf-input input').addClass('form-control');
 	$('.button.button-primary').addClass('btn btn-primary');
 	
 	

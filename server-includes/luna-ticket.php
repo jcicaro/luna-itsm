@@ -14,7 +14,7 @@ add_action('init', function() {
         'public' => true,
         'has_archive' => false,
         // 'register_meta_box_cb' => 'lil_meta_box_cb',
-        'supports' => array('title', 'editor', 'thumbnail', 'comments')
+        'supports' => array('title', 'comments')
     ));
 });
 
